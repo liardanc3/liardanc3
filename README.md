@@ -5,8 +5,8 @@
 - <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=JAVA&logoColor=white">
 
 > ### [2022년 인천대학교 컴퓨터공학부 졸업작품 발표회 대상](https://github.com/liardanc3/inunavi)
-> #### 2022.03.02 ~ 2022.12.29 기간 동안 서비스한 프로그램이며 캠퍼스 지리에 익숙치 않은 신입생 및 복학생을 위한 교내 지도 어플로, 서버단을 구성하였습니다. [(클라이언트단은 이곳.)](https://github.com/RacooLabs/inuNavi)
-> #### 
+> #### 서비스 기간 : 2022.03.02 ~ 2022.12.29 
+> #### 캠퍼스 지리에 익숙치 않은 신입생 및 복학생을 위한 교내 지도 어플로, 서버단을 구성하였습니다. [(클라이언트단은 이곳.)](https://github.com/RacooLabs/inuNavi)
 
 
 
