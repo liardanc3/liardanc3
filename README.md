@@ -10,8 +10,8 @@
 
 
 ## Algorithm
-- [<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual studio&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>](https://github.com/liardanc3/Algorithm/CPP)
-- [<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=Java&logoColor=white"/>](https://github.com/liardanc3/Algorithm/JAVA)
+- [<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual studio&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>](https://github.com/liardanc3/Algorithm)
+- [<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=Java&logoColor=white"/>](https://github.com/liardanc3/Algorithm)
 
 > ### [2021년 INU 코드페스티벌 은상 (사실상새내기)](https://www.acmicpc.net/contest/spotboard/727)
 > #### __2021.12.18 에 열린 교내 알고리즘 경진대회 입니다.__
