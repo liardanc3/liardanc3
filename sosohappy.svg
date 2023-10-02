@@ -1,4 +1,4 @@
-<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
   <text x="10" y="20"><tspan font-weight="bold">다이어리 SNS 앱</tspan><tspan font-size="70%" dy="5"> (ios)</tspan></text>
   <text x="10" y="50"><tspan font-style="italic">Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트</tspan></text>
   <text x="10" y="80"><tspan font-style="italic">배포 예정</tspan><tspan font-size="70%" dy="5"> (2023.10 ~ )</tspan></text>
