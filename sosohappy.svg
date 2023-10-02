@@ -12,11 +12,11 @@
   
   <text x="10" y="20" class="t">
     <tspan font-size="80%" font-weight="bold">다이어리 SNS 앱</tspan>
-    <tspan font-size="70%" dy="5">(ios)</tspan>
+    <tspan font-size="70%" dy="1">(ios)</tspan>
   </text>
   
   <text x="10" y="50" class="t">
-    <tspan font-size="80%" font-style="italic">Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트</tspan>
+    <tspan font-size="80%" font-style="italic" dy="0.8em">Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트</tspan>
   </text>
   
   <text x="10" y="80" class="t">
