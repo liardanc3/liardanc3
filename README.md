@@ -19,14 +19,12 @@
 
 
 
-<h4>Skills</h4>
+<h4>Project</h4>
 
 - **Backend**
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
 
-</div>
 
-<div class="right">
 
 ### Algorithm
 - [<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual studio&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>](https://github.com/liardanc3/Algorithm)
@@ -37,5 +35,5 @@
 
 > [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=l1ardanc3)](https://solved.ac/l1ardanc3)
 
-</div>
+
 
