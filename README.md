@@ -73,7 +73,7 @@ Project
     <br>
     <b>다이어리 SNS 앱</b><sub>(ios)</sub>
     <br><br>
-    <em>Container orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트 </em>  
+    <em>Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트 </em>  
     <br>
       <em>배포 예정<sub>(2023.10 ~ )</sub></em>
       <br>
