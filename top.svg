@@ -1,7 +1,7 @@
 <svg viewBox="0 20 400 300" width="400" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="400" height="300">
     <div align="center" xmlns="http://www.w3.org/1999/xhtml" style="margin: 0 auto;">
-       <image x="0" y="0" width="200" height="50" xlink:href="https://img.shields.io/badge/IntelliJ-000000?style=flat&amp;logo=IntelliJ%20IDEA&amp;logoColor=white"/>
+       <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&amp;logo=IntelliJ%20IDEA&amp;logoColor=white"/>
    
     </div>
   </foreignObject>
