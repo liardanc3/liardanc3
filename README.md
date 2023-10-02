@@ -46,10 +46,11 @@ Project
 
 <div align="center">
   <a href="https://github.com/liardanc3/inunavi">
-  <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
+  <img align="left" height="130" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
   </a>
 
   <div align="left">
+    <br>
     <b>인천대학교 교내 지도 앱</b><sub>(안드로이드)</sub>
     <br><br>
     <em>2022년 인천대학교 졸업작품 발표회에 출품된 작품.</em>  
@@ -61,14 +62,15 @@ Project
   
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
-  <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
+  <img align="left" height="130" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
   </a>
 
   <div align="left">
+    <br>
     <b>다이어리 SNS 앱</b><sub>(ios)</sub>
     <br><br>
     <em>컨테이너 오케스트레이션, CI/CD, 모니터링이 포함된 MSA 프로젝트 </em>  
