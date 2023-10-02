@@ -14,13 +14,13 @@
   <img src="left.svg" align="left">
 </a>
 
-
 <div align="center" xmlns="http://www.w3.org/1999/xhtml">
 
-  ### Project
-  <br>
+### Project
+<a href="https://github.com/liardanc3/inunavi">
+<img height="350" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
+<a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
+<img height="350" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
 
-[![inunavi](https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23)](https://github.com/liardanc3/inunavi)
-[![sosohappy](https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07)](https://github.com/So-So-Happy/SoSoHappy-BackEnd)
 
 </div>
