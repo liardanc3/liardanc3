@@ -33,8 +33,6 @@
 Skills
 ---
 
-
-
 sadasdasdasda
 
 <br>
@@ -45,18 +43,36 @@ sadasdasdasda
 
 Project
 ---
+
+<div align="center">
+  <a href="https://github.com/liardanc3/inunavi">
+  <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
+  </a>
+
+  <div align="left">
+    <br>
+    <b>인천대학교 교내 지도 어플</b><sub>(서버단)</sub><br>
+    <font size=10>
+      클라이언트 2명(<a href="https://github.com/RacooLabs">@RacooLabs</a>,
+      <a href="https://github.com/kyungeee">@kyungeee</a>),
+      서버 2명(<a href="https://github.com/Tenser>@Tenser</a>,
+      <a href="https://github.com/liardanc3">@liardanc3</a>)이 참여한 프로젝트.
+      <br>
+      9개월 간<sub>(2022.03~2022.12)</sub> 약 400명의 이용자에게 서비스를 제공.
+      <br>
+      <br>
+    </font>
+  </div>
+  
+</div>
+
 <br>
 
-<div align="left">
-<a align="left" href="https://github.com/liardanc3/inunavi">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23&width=300"/>
-asdasdsa
+<div align="center">
+  <a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
+  <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
+  </a>
 
-</div> 
-
-
-<a alighhref="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
-<img height="100" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
-
+  asdasd
 
 </div>
