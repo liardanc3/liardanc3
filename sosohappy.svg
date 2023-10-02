@@ -1,10 +1,10 @@
-<svg viewBox="0 0 550 70" width="550" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 550 80" width="550" height="100" xmlns="http://www.w3.org/2000/svg">
   <style type="text/css"> 
        <![CDATA[
-           @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+           @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap');
             
           .t {
-              font-family: 'Gowun Batang', serif;
+              font-family: 'IBM Plex Sans KR', sans-serif;
           }
         ]]>
   </style>         
