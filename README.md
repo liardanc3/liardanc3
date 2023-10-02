@@ -16,7 +16,7 @@
 
 <div align="center" xmlns="http://www.w3.org/1999/xhtml">
 
-![typing svg](https://readme-typing-svg.herokuapp.com?font=Mukta&size=20&duration=3000&pause=20000&color=000000&center=true&vCenter=true&width=350&lines=Project)
+![typing svg](https://readme-typing-svg.herokuapp.com?font=Mukta&size=20&duration=3000&pause=2000000&color=000000&center=true&vCenter=true&width=350&lines=Project)
 <br>
 <a href="https://github.com/liardanc3/inunavi">
 <img height="100" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
