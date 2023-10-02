@@ -2,9 +2,7 @@
   <foreignObject width="100%" height="90%">
     <div align="center" xmlns="http://www.w3.org/1999/xhtml">
       <h3>Skills</h3>
-      
-      Java
-      
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL Badge"/>
     </div>
   </foreignObject>
 </svg>
