@@ -1,28 +1,8 @@
 <svg fill="none" viewBox="500 0 1000 300" width="500" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .left {
-            width: 50%;
-            float: left;
-            position: relative;
-        }
-        .right {
-            width: 50%;
-            float: left;
-            position: relative;
-        }
-      </style>
-
-      <div class="left">
-        <h4>Skils</h4>
-        left
-      </div>
-
-      <div class="right">
-        <h4>Projects</h4>
-        right
-      </div>
+      Skills
+      - Java
       
     </div>
   </foreignObject>
