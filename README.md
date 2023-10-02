@@ -11,7 +11,7 @@
 </div>
 
 <a>
-  <img src="top.svg" align="left">
+  <img src="left.svg" align="left">
 </a>
 
 
