@@ -62,13 +62,22 @@ Project
   
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
   </a>
 
-  asdasd
+  <div align="left">
+    <br>
+    <b>다이어리 SNS 앱</b><sub>(ios)</sub>
+    <br><br>
+    <em>MSA 구조</em>  
+    <br>
+      <em>배포 중<sub>(2023.10 ~ )</sub></em>
+      <br>
+    </font>
+  </div>
 
 </div>
