@@ -29,11 +29,6 @@
             .background {
                 fill: url(#grad1);
             }
-            text {
-                fill: white;
-                font-family: 'Noto Sans KR', sans-serif;
-                font-size: 0.7em;
-            }
             .gray-area {
                 fill: #555555;
             }
