@@ -1,13 +1,7 @@
-<div style="float: left; width: 50%;">
-asd
-</div>
-<div style="float: right; width: 50%;">
-  asd
-</div>
+<div align="center>
 
-<div style="width: 40%; float: left; position: relative;">
+#### Donghwan Kim
 
-### Donghwan Kim
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliardanc3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=l1ardanc3)](https://solved.ac/profile/l1ardanc3)
 
@@ -15,28 +9,19 @@ asd
 
 </div>
 
-<div style="width: 60%; float: right; position: relative;">
 
-### Donghwan Kim
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliardanc3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=l1ardanc3)](https://solved.ac/profile/l1ardanc3)
+[![skills_projects](skills_project.svg)](https://github.com/liardanc3/liardanc3/blame/main/skills_project.svg)
 
----
+<div class="left">
 
-</div>
-
-<span align="left">
-
-
-### Skills
+<h4>Skills</h4>
 
 - **Backend**
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
 
+</div>
 
-</span>
-
-<span align="right">
+<div class="right">
 
 ### Algorithm
 - [<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual studio&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>](https://github.com/liardanc3/Algorithm)
@@ -47,4 +32,5 @@ asd
 
 > [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=l1ardanc3)](https://solved.ac/l1ardanc3)
 
-</span>
+</div>
+
