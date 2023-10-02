@@ -1,3 +1,4 @@
+  👋
 <div align="center">
   
 <div align="right">
@@ -5,15 +6,16 @@
 </div>
 
 <div align="left">
-<br>
 
-<div align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=23&duration=3000&pause=20000&color=000000&center=true&vCenter=true&width=350&lines=Hi+there%2C+my+name+is+Donghwan+Kim."/>
-</div>
-<div align="center">
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliardanc3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-<img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=l1ardanc3"/>
-</div>
+  <br>
+  
+  <div align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=23&duration=3000&pause=20000&color=000000&center=true&vCenter=true&width=350&lines=Hi+there%2C+my+name+is+Donghwan+Kim."/>
+  </div>
+  <div align="center">
+  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliardanc3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=l1ardanc3"/>
+  </div>
 </div>
 </div>
 
