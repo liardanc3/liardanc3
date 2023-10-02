@@ -1,6 +1,6 @@
-<div align="center>
+<div align="center">
 
-#### Donghwan Kim
+### Donghwan Kim
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliardanc3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=l1ardanc3)](https://solved.ac/profile/l1ardanc3)
@@ -9,8 +9,11 @@
 
 </div>
 
-
+<div align="center">
+  
 [![skills_projects](skills_project.svg)](https://github.com/liardanc3/liardanc3/blame/main/skills_project.svg)
+
+</div>
 
 <div class="left">
 
