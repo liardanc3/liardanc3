@@ -50,7 +50,6 @@ Project
   </a>
 
   <div align="left">
-    <br>
     <b>인천대학교 교내 지도 앱</b><sub>(안드로이드)</sub>
     <br><br>
     <em>2022년 인천대학교 졸업작품 발표회에 출품된 작품.</em>  
@@ -62,7 +61,7 @@ Project
   
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
@@ -70,12 +69,11 @@ Project
   </a>
 
   <div align="left">
-    <br>
     <b>다이어리 SNS 앱</b><sub>(ios)</sub>
     <br><br>
-    <em>MSA 구조</em>  
+    <em>컨테이너 오케스트레이션, CI/CD, 모니터링이 포함된 MSA 프로젝트 </em>  
     <br>
-      <em>배포 중<sub>(2023.10 ~ )</sub></em>
+      <em>배포 예정<sub>(2023.10 ~ )</sub></em>
       <br>
     </font>
   </div>
