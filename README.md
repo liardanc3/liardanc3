@@ -52,13 +52,9 @@ Project
   <div align="left">
     <br>
     <b>인천대학교 교내 지도 어플</b><sub>(안드로이드)</sub><br>
-    <font size=10>
-      클라이언트 2명(<a href="https://github.com/RacooLabs">@RacooLabs</a>,
-      <a href="https://github.com/kyungeee">@kyungeee</a>),
-      서버 2명(<a href="https://github.com/Tenser">@Tenser</a>,
-      <a href="https://github.com/liardanc3">@liardanc3</a>)이 참여한 프로젝트.
-      <br>
-      9개월 간<sub>(2022.03~2022.12)</sub> 약 400명의 이용자에게 서비스를 제공.
+    <em>2022년 인천대학교 졸업작품 발표회에 출품된 작품.</em>  
+    <br>
+      <em>9개월 간<sub>(2022.03~2022.12)</sub> 약 400명의 이용자에게 서비스를 제공.</em>
       <br>
       <br>
     </font>
