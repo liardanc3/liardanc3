@@ -69,6 +69,6 @@ Project
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
   </a>
 
-  <img align="left" height="100" width="500" src="sosohappy.svg">
+  <img align="left" height="100" width="450" src="sosohappy.svg">
 
 </div>
