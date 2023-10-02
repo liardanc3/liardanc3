@@ -11,7 +11,7 @@
 
   
   <text x="10" y="20" class="t">
-    <tspan font-size="80%" font-weight="bold">다이어리 SNS 앱</tspan>
+    <tspan font-size="100%" font-weight="bold">다이어리 SNS 앱</tspan>
     <tspan font-size="70%" dy="1">(ios)</tspan>
   </text>
   
