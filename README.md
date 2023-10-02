@@ -69,15 +69,6 @@ Project
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
   </a>
 
-  <div align="left">
-    <br>
-    <b>다이어리 SNS 앱</b><sub>(ios)</sub>
-    <br><br>
-    <em>Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트 </em>  
-    <br>
-      <em>배포 예정<sub>(2023.10 ~ )</sub></em>
-      <br>
-    </font>
-  </div>
+  <img align="right" src="sosohappy.svg">
 
 </div>
