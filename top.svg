@@ -2,7 +2,10 @@
   <foreignObject width="400" height="300">
     <div align="center" xmlns="http://www.w3.org/1999/xhtml" style="margin: 0 auto;">
       
-       <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&amp;logo=IntelliJ%20IDEA&amp;logoColor=white"/>
+       <![CDATA[
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/>
+      ]]>
+    
    
     </div>
   </foreignObject>
