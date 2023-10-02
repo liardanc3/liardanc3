@@ -4,7 +4,7 @@
 
   
 <div align="right">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liardanc3&hide_border=true&hide=stars"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liardanc3&hide_border=true"/>
 </div>
 
 <div align="left">
