@@ -46,7 +46,7 @@ Project
 
 <div align="center">
   <a href="https://github.com/liardanc3/inunavi">
-  <img align="left" height="130" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
+  <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
   </a>
 
   <div align="left">
@@ -62,11 +62,10 @@ Project
   
 </div>
 
-<br>
 
 <div align="center">
   <a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
-  <img align="left" height="130" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
+  <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
   </a>
 
   <div align="left">
