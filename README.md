@@ -1,6 +1,6 @@
 <div align="center">
 
-### Donghwan Kim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=9999999&color=000000&center=true&vCenter=true&width=435&lines=Hi+there.+my+name+is+Donghwan+Kim)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliardanc3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=l1ardanc3)](https://solved.ac/profile/l1ardanc3)
@@ -11,7 +11,7 @@
 
 <div align="center">
   
-[![skills_projects](skills_project.svg)](https://github.com/liardanc3/liardanc3/blame/main/skills_project.svg)
+![skills_project](skills_project.svg)
 
 </div>
 
