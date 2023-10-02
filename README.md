@@ -1,13 +1,15 @@
-  👋
+
 <div align="center">
+
+
   
 <div align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=liardanc3&hide_border=true"/>
 </div>
 
 <div align="left">
-
-  <br>
+  
+  ![wave](wave.svg)
   
   <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=23&duration=3000&pause=20000&color=000000&center=true&vCenter=true&width=350&lines=Hi+there%2C+my+name+is+Donghwan+Kim."/>
