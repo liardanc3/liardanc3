@@ -33,7 +33,7 @@ Skills
   
 <br>
 
-<img align="right" src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,jenkins,prometheus,grafana,kafka">
+<img align="right" src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,jenkins,prometheus,grafana,kafka&perline=4">
 
 - Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.
 - GCP 환경에서 서비스 구축 및 배포 경험.
