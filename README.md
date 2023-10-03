@@ -29,7 +29,7 @@ Skills
 
 - Spring Framework<sub>(java)</sub> 기반 Monolithic, MSA 프로젝트 개발 경험.
 - HTTP, WebSocket 통신 프로토콜 기반 개발 경험.
-- MySQL, MongoDB / JPA, querydsl 사용 경험.
+- MySQL, MongoDB 및 JPA, querydsl 사용 경험.
   
 <br>
 
