@@ -39,6 +39,7 @@ Skills
 - GCP 환경에서 서비스 구축 및 배포 경험.
 - Jenkins를 이용한 CI/CD 경험.
 - Kafka를 통한 메시지 처리 및 서비스 간 데이터 정합성 유지 경험.
+- Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험.
 
 </div>
 
