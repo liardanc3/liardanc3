@@ -26,12 +26,17 @@
 Skills
 ---
 
-![devops](svg/devops.svg)
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-
-
+- Java & Spring 기반 Monolithic, MSA 프로젝트 개발 경험.
+- HTTP, WebSocket 통신 프로토콜 기반 개발 경험.
+- MySQL,MongoDB / JPA,querydsl 사용 경험.
+  
 <br>
+
+- Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.
+- GCP 환경에서 서비스 구축 및 배포 경험.
+- Jenkins를 이용한 CI/CD 경험.
+- Kafka를 통한 메시지 처리 및 데이터 정합성 유지 경험.
+
 </div>
 
 
