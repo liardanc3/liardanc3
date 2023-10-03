@@ -7,7 +7,7 @@
 
 <div align="left">
   
-  ![wave](wave.svg)
+  ![wave](svg/wave.svg)
   
   <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Mukta&size=23&duration=3000&pause=20000&color=000000&center=true&vCenter=true&width=350&lines=Hi+there%2C+my+name+is+Donghwan+Kim."/>
@@ -69,6 +69,6 @@ Project
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
   </a>
 
-  <img align="left" height="120" width="430" src="sosohappy.svg">
+  <img align="left" height="120" width="430" src="svg/sosohappy.svg">
 
 </div>
