@@ -49,16 +49,7 @@ Project
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
   </a>
 
-  <div align="left">
-    <br>
-    <b>인천대학교 교내 지도 앱</b><sub>(안드로이드)</sub>
-    <br><br>
-    <em>2022년 인천대학교 졸업작품 발표회에 출품된 작품.</em>  
-    <br>
-      <em>9개월 간<sub>(2022.03~2022.12)</sub> 약 400명의 이용자에게 서비스를 제공.</em>
-      <br>
-    </font>
-  </div>
+  <img align="left" height="120" width="430" src="svg/inunavi.svg">
   
 </div>
 
