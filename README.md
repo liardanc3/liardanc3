@@ -19,14 +19,7 @@
 </div>
 </div>
 
-
-
-
-
-
 <br>
-
-
 
 <div align="left">
 
@@ -47,10 +40,8 @@ Project
 <div align="center">
   <a href="https://github.com/liardanc3/inunavi">
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=liardanc3&repo=inunavi&title_color=07ad23&border_color=07ad23"/>
-  </a>
-
   <img align="left" height="120" width="430" src="svg/inunavi.svg">
-  
+  </a>
 </div>
 
 <br>
@@ -58,8 +49,6 @@ Project
 <div align="center">
   <a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
-  </a>
-
   <img align="left" height="120" width="430" src="svg/sosohappy.svg">
-
+  </a>
 </div>
