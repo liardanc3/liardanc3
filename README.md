@@ -61,7 +61,7 @@ Project
 <br>
 
 <div align="center">
-  <a href="https://github.com/So-So-Happy/SoSoHappy-BackEnd">
+  <a href="https://github.com/liardanc3/SoSoHappy-BackEnd">
   <img align="left" height="120" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=So-So-Happy&repo=SoSoHappy-BackEnd&title_color=8a7d07&border_color=8a7d07"/>
   <img align="left" height="120" width="430" src="svg/sosohappy.svg">
   </a>
