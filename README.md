@@ -1,1 +1,139 @@
-메롱
+<div style="font-size: calc(1em - 2pt); line-height: 1.45;">
+
+## Skills
+
+<!-- 기술 스택 아이콘: Skills 바로 아래에 일렬 나열 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,gcp,kubernetes,docker,jenkins,prometheus,grafana,kafka&perline=12&theme=dark" />
+  <img alt="Tech Stack"
+       src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,gcp,kubernetes,docker,jenkins,prometheus,grafana,kafka&perline=12" />
+</picture>
+
+<div style="display:flex; align-items:flex-start; gap:16px; width:100%;">
+
+  <div style="flex:1; min-width:260px;">
+
+- Spring Framework<sub>(java)</sub> 기반 Monolithic, MSA 프로젝트 개발 경험.
+- HTTP, WebSocket 통신 프로토콜 기반 개발 경험.
+- MySQL, MongoDB 및 JPA, querydsl 사용 경험.
+
+- Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.
+- GCP 환경에서 서비스 구축 및 배포 경험.
+- Jenkins를 이용한 CI/CD 경험.
+- Kafka를 통한 메시지 처리 및 서비스 간 데이터 정합성 유지 경험.
+- Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험.
+
+  </div>
+
+</div>
+
+<div style="clear: both;"></div>
+
+<br>
+
+## Project
+
+<!-- 인천대학교 지도앱 카드 -->
+<div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
+  <details open>
+    <summary><b>인천대학교 교내 지도 앱 (android)</b></summary>
+
+<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
+타입: 졸업작품 · 코드 비공개 · 역할: Backend, Infra
+</p>
+
+- 2022년 인천대학교 졸업작품 발표회에 출품된 작품
+- 9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공
+
+  </details>
+</div>
+
+<br/>
+
+<!-- 다이어리 SNS 앱 카드 -->
+<div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
+  <details open>
+    <summary><b>다이어리 SNS 앱(ios) - 사이드 프로젝트</b></summary>
+
+<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
+타입: 사이드 프로젝트 · 코드 비공개 · 역할: Backend, DevOps
+</p>
+
+- Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트
+- 앱스토어에서 서비스 (2024.01 ~ )
+
+  </details>
+</div>
+
+<br/>
+
+<!-- 공공와이파이 관제시스템 카드 -->
+<div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
+  <details open>
+    <summary><b>공공와이파이 관제시스템 구축 - 회사프로젝트</b></summary>
+
+<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
+타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend, Batch
+</p>
+
+- Spring Boot 기반 **CWMP 프로토콜** 수집 서버 구축 참여
+- 운영/외부 연계를 위한 **API 서버** 구축 참여
+- 정기/대량 처리용 **Batch 서버** 구축 참여
+
+  </details>
+</div>
+
+<br/>
+
+<!-- 물리보안업체 사내프로그램 고도화 카드 -->
+<div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
+  <details open>
+    <summary><b>물리보안업체 사내프로그램 고도화 - 회사프로젝트</b></summary>
+
+<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
+타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend
+</p>
+
+- Spring Boot로 기존 자동화 업무 '준공'의 고도화 및 수기 업무 '정산' 신규 구축에 참여
+
+  </details>
+</div>
+
+<br/>
+
+<!-- 물리보안업체 온라인셀프가입센터 고도화 카드 -->
+<div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
+  <details open>
+    <summary><b>물리보안업체 온라인셀프가입센터 고도화 - 회사프로젝트</b></summary>
+
+<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
+타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend, Frontend(Angular)
+</p>
+
+- Spring Boot로 **신규상품 판매를 위한 API 구성**, 관리자페이지 API 구성 및 레거시 서비스들과의 연동 API 구성
+- 퍼블리싱 완료된 HTML 위에서 **Angular**로 고객 노출 화면단 구성
+
+  </details>
+</div>
+
+<br/>
+
+<!-- GOP 과학화경계시스템 카드 -->
+<div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
+  <details open>
+    <summary><b>GOP 과학화경계시스템 성능 개량 사업 통제시스템 개발 - 회사프로젝트</b></summary>
+
+<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
+타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend, Integration
+</p>
+
+- 윈도우즈 프로그램과의 데이터 통신을 위한 API 구성
+- 카메라 화질 개선서버, 광망 알림서버, CCTV 분석서버 등 연계 시스템과의 연동 API 구성
+- 서비스 납품 이후 고객 요구사항에 따른 기능 수정 및 디버깅 
+
+  </details>
+</div>
+
+<div style="clear: both;"></div>
+</div>
