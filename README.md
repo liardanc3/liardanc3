@@ -36,9 +36,10 @@
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary>
-      <b style="color:#24292f;">인천대학교 교내 지도 앱 (android)</b><br>
-      - 졸업작품 | Backend, Infra
+      <b style="color:#24292f;">인천대학교 교내 지도 앱 (android)</b>
     </summary>
+    <br>
+    - <a href="https://www.naver.com" target="_blank" style="text-decoration:none; color:#24292f;">졸업작품</a> | Backend, Infra<br>
     - 2022년 인천대학교 졸업작품 발표회에 출품된 작품<br>
     - 9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공
   </details>
@@ -50,9 +51,10 @@
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary>
-      <b style="color:#24292f;">다이어리 SNS 앱(ios)</b><br>
-      - 사이드 프로젝트 | Backend, DevOps
+      <b style="color:#24292f;">다이어리 SNS 앱(ios)</b>
     </summary>
+    <br>
+    - <a href="https://www.naver.com" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | Backend, DevOps<br>
     - Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트<br>
     - 앱스토어에서 서비스 (2024.01 ~ )
   </details>
@@ -64,9 +66,10 @@
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary>
-      <b style="color:#24292f;">공공와이파이 관제시스템 구축</b><br>
-      - 회사 프로젝트 | Backend, Batch
+      <b style="color:#24292f;">공공와이파이 관제시스템 구축</b>
     </summary>
+    <br>
+    - 회사 프로젝트 | Backend, Batch<br>
     - Spring Boot 기반 CWMP 프로토콜 수집 서버 구축 참여<br>
     - 운영/외부 연계를 위한 API 서버 구축 참여<br>
     - 정기/대량 처리용 Batch 서버 구축 참여
@@ -79,9 +82,10 @@
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary>
-      <b style="color:#24292f;">물리보안업체 사내프로그램 고도화</b><br>
-      - 회사 프로젝트 | Backend
+      <b style="color:#24292f;">물리보안업체 사내프로그램 고도화</b>
     </summary>
+    <br>
+    - 회사 프로젝트 | Backend<br>
     - Spring Boot로 기존 자동화 업무 '준공'의 고도화 및 수기 업무 '정산' 신규 구축에 참여
   </details>
 </div>
@@ -92,9 +96,10 @@
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary>
-      <b style="color:#24292f;">물리보안업체 온라인셀프가입센터 고도화</b><br>
-      - 회사 프로젝트 | Backend, Frontend(Angular)
+      <b style="color:#24292f;">물리보안업체 온라인셀프가입센터 고도화</b>
     </summary>
+    <br>
+    - 회사 프로젝트 | Backend, Frontend(Angular)<br>
     - Spring Boot로 신규상품 판매를 위한 API 구성, 관리자페이지 API 구성 및 레거시 서비스들과의 연동 API 구성<br>
     - 퍼블리싱 완료된 HTML 위에서 Angular로 고객 노출 화면단 구성
   </details>
@@ -106,8 +111,15 @@
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary>
-      <b style="color:#24292f;">GOP 과학화경계시스템 성능 개량 사업 통제시스템 개발</b><br>
-      - 회사 프로젝트 | Backend, Integration
+      <b style="color:#24292f;">GOP 과학화경계시스템 성능 개량 사업 통제시스템 개발</b>
     </summary>
+    <br>
+    - 회사 프로젝트 | Backend, Integration<br>
     - 윈도우즈 프로그램과의 데이터 통신을 위한 API 구성<br>
-    - 카메라 화질 개선서버, 광망 알림
+    - 카메라 화질 개선서버, 광망 알림서버, CCTV 분석서버 등 연계 시스템과의 연동 API 구성<br>
+    - 서비스 납품 이후 고객 요구사항에 따른 기능 수정 및 디버깅
+  </details>
+</div>
+
+<div style="clear: both;"></div>
+</div>
