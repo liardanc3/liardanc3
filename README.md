@@ -2,7 +2,6 @@
 
 ## Skills
 
-<!-- 기술 스택 아이콘: Skills 바로 아래에 일렬 나열 -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,gcp,kubernetes,docker,jenkins,prometheus,grafana,kafka&perline=12&theme=dark" />
@@ -14,15 +13,15 @@
 
   <div style="flex:1; min-width:260px;">
 
-- Spring Framework<sub>(java)</sub> 기반 Monolithic, MSA 프로젝트 개발 경험.
-- HTTP, WebSocket 통신 프로토콜 기반 개발 경험.
-- MySQL, MongoDB 및 JPA, querydsl 사용 경험.
+- <span style="color:#6a737d;">Spring Framework<sub>(java)</sub> 기반 Monolithic, MSA 프로젝트 개발 경험.</span>
+- <span style="color:#6a737d;">HTTP, WebSocket 통신 프로토콜 기반 개발 경험.</span>
+- <span style="color:#6a737d;">MySQL, MongoDB 및 JPA, querydsl 사용 경험.</span>
 
-- Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.
-- GCP 환경에서 서비스 구축 및 배포 경험.
-- Jenkins를 이용한 CI/CD 경험.
-- Kafka를 통한 메시지 처리 및 서비스 간 데이터 정합성 유지 경험.
-- Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험.
+- <span style="color:#6a737d;">Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.</span>
+- <span style="color:#6a737d;">GCP 환경에서 서비스 구축 및 배포 경험.</span>
+- <span style="color:#6a737d;">Jenkins를 이용한 CI/CD 경험.</span>
+- <span style="color:#6a737d;">Kafka를 통한 메시지 처리 및 서비스 간 데이터 정합성 유지 경험.</span>
+- <span style="color:#6a737d;">Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험.</span>
 
   </div>
 
@@ -37,14 +36,15 @@
 <!-- 인천대학교 지도앱 카드 -->
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
-    <summary><b>인천대학교 교내 지도 앱 (android)</b></summary>
+    <summary>
+      <b style="color:#24292f;">인천대학교 교내 지도 앱 (android)</b> 
+      <span style="font-size:0.85em; color:#6a737d;">- 졸업작품 | Backend, Infra</span>
+    </summary>
 
-<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
-타입: 졸업작품 · 코드 비공개 · 역할: Backend, Infra
-</p>
-
-- 2022년 인천대학교 졸업작품 발표회에 출품된 작품
-- 9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공
+<ul style="color:#6a737d; margin-left:18px; margin-top:6px;">
+  <li>2022년 인천대학교 졸업작품 발표회에 출품된 작품</li>
+  <li>9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공</li>
+</ul>
 
   </details>
 </div>
@@ -54,14 +54,15 @@
 <!-- 다이어리 SNS 앱 카드 -->
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
-    <summary><b>다이어리 SNS 앱(ios) - 사이드 프로젝트</b></summary>
+    <summary>
+      <b style="color:#24292f;">다이어리 SNS 앱(ios)</b> 
+      <span style="font-size:0.85em; color:#6a737d;">- 사이드 프로젝트 | Backend, DevOps</span>
+    </summary>
 
-<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
-타입: 사이드 프로젝트 · 코드 비공개 · 역할: Backend, DevOps
-</p>
-
-- Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트
-- 앱스토어에서 서비스 (2024.01 ~ )
+<ul style="color:#6a737d; margin-left:18px; margin-top:6px;">
+  <li>Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트</li>
+  <li>앱스토어에서 서비스 (2024.01 ~ )</li>
+</ul>
 
   </details>
 </div>
@@ -71,15 +72,16 @@
 <!-- 공공와이파이 관제시스템 카드 -->
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
-    <summary><b>공공와이파이 관제시스템 구축 - 회사프로젝트</b></summary>
+    <summary>
+      <b style="color:#24292f;">공공와이파이 관제시스템 구축</b> 
+      <span style="font-size:0.85em; color:#6a737d;">- 회사 프로젝트 | Backend, Batch</span>
+    </summary>
 
-<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
-타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend, Batch
-</p>
-
-- Spring Boot 기반 **CWMP 프로토콜** 수집 서버 구축 참여
-- 운영/외부 연계를 위한 **API 서버** 구축 참여
-- 정기/대량 처리용 **Batch 서버** 구축 참여
+<ul style="color:#6a737d; margin-left:18px; margin-top:6px;">
+  <li>Spring Boot 기반 CWMP 프로토콜 수집 서버 구축 참여</li>
+  <li>운영/외부 연계를 위한 API 서버 구축 참여</li>
+  <li>정기/대량 처리용 Batch 서버 구축 참여</li>
+</ul>
 
   </details>
 </div>
@@ -89,30 +91,32 @@
 <!-- 물리보안업체 사내프로그램 고도화 카드 -->
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
-    <summary><b>물리보안업체 사내프로그램 고도화 - 회사프로젝트</b></summary>
+    <summary>
+      <b style="color:#24292f;">물리보안업체 사내프로그램 고도화</b> 
+      <span style="font-size:0.85em; color:#6a737d;">- 회사 프로젝트 | Backend</span>
+    </summary>
 
-<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
-타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend
-</p>
-
-- Spring Boot로 기존 자동화 업무 '준공'의 고도화 및 수기 업무 '정산' 신규 구축에 참여
+<ul style="color:#6a737d; margin-left:18px; margin-top:6px;">
+  <li>Spring Boot로 기존 자동화 업무 '준공'의 고도화 및 수기 업무 '정산' 신규 구축에 참여</li>
+</ul>
 
   </details>
 </div>
 
 <br/>
 
-<!-- 물리보안업체 온라인셀프가입센터 고도화 카드 -->
+<!-- 온라인셀프가입센터 고도화 카드 -->
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
-    <summary><b>물리보안업체 온라인셀프가입센터 고도화 - 회사프로젝트</b></summary>
+    <summary>
+      <b style="color:#24292f;">물리보안업체 온라인셀프가입센터 고도화</b> 
+      <span style="font-size:0.85em; color:#6a737d;">- 회사 프로젝트 | Backend, Frontend(Angular)</span>
+    </summary>
 
-<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
-타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend, Frontend(Angular)
-</p>
-
-- Spring Boot로 **신규상품 판매를 위한 API 구성**, 관리자페이지 API 구성 및 레거시 서비스들과의 연동 API 구성
-- 퍼블리싱 완료된 HTML 위에서 **Angular**로 고객 노출 화면단 구성
+<ul style="color:#6a737d; margin-left:18px; margin-top:6px;">
+  <li>Spring Boot로 신규상품 판매를 위한 API 구성, 관리자페이지 API 구성 및 레거시 서비스들과의 연동 API 구성</li>
+  <li>퍼블리싱 완료된 HTML 위에서 Angular로 고객 노출 화면단 구성</li>
+</ul>
 
   </details>
 </div>
@@ -122,15 +126,16 @@
 <!-- GOP 과학화경계시스템 카드 -->
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
-    <summary><b>GOP 과학화경계시스템 성능 개량 사업 통제시스템 개발 - 회사프로젝트</b></summary>
+    <summary>
+      <b style="color:#24292f;">GOP 과학화경계시스템 성능 개량 사업 통제시스템 개발</b> 
+      <span style="font-size:0.85em; color:#6a737d;">- 회사 프로젝트 | Backend, Integration</span>
+    </summary>
 
-<p style="margin:2px 0 10px; font-size:90%; font-weight:600; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial;">
-타입: 회사 프로젝트 · 코드 비공개 · 역할: Backend, Integration
-</p>
-
-- 윈도우즈 프로그램과의 데이터 통신을 위한 API 구성
-- 카메라 화질 개선서버, 광망 알림서버, CCTV 분석서버 등 연계 시스템과의 연동 API 구성
-- 서비스 납품 이후 고객 요구사항에 따른 기능 수정 및 디버깅 
+<ul style="color:#6a737d; margin-left:18px; margin-top:6px;">
+  <li>윈도우즈 프로그램과의 데이터 통신을 위한 API 구성</li>
+  <li>카메라 화질 개선서버, 광망 알림서버, CCTV 분석서버 등 연계 시스템과의 연동 API 구성</li>
+  <li>서비스 납품 이후 고객 요구사항에 따른 기능 수정 및 디버깅</li>
+</ul>
 
   </details>
 </div>
