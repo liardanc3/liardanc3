@@ -56,7 +56,7 @@
     <br>
     - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | Backend, DevOps<br>
     - Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트<br>
-    - 앱스토어에서 서비스 (2024.01 ~ )
+    - 앱스토어에서 서비스 (2024.01 ~ 2024.04)
   </details>
 </div>
 
