@@ -39,7 +39,7 @@
       <b style="color:#24292f;">인천대학교 교내 지도 앱 (android)</b>
     </summary>
     <br>
-    - <a href="https://www.naver.com" target="_blank" style="text-decoration:none; color:#24292f;">졸업작품</a> | Backend, Infra<br>
+    - <a href="https://github.com/liardanc3/inunavi" target="_blank" style="text-decoration:none; color:#24292f;">졸업작품</a> | Backend, Infra<br>
     - 2022년 인천대학교 졸업작품 발표회에 출품된 작품<br>
     - 9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공
   </details>
@@ -54,7 +54,7 @@
       <b style="color:#24292f;">다이어리 SNS 앱(ios)</b>
     </summary>
     <br>
-    - <a href="https://www.naver.com" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | Backend, DevOps<br>
+    - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | Backend, DevOps<br>
     - Container Orchestration, CI/CD, Monitoring이 포함된 MSA 프로젝트<br>
     - 앱스토어에서 서비스 (2024.01 ~ )
   </details>
