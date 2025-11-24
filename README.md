@@ -9,21 +9,21 @@
        src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,gcp,kubernetes,docker,jenkins,prometheus,grafana,kafka&perline=12" />
 </picture>
 
+
+<br>
+
+
 <div style="display:flex; align-items:flex-start; gap:16px; width:100%;">
-
-  <div style="flex:1; min-width:260px;">
-
-- <span style="color:#6a737d;">Spring Framework<sub>(java)</sub> 기반 Monolithic, MSA 프로젝트 개발 경험.</span>
-- <span style="color:#6a737d;">HTTP, WebSocket 통신 프로토콜 기반 개발 경험.</span>
-- <span style="color:#6a737d;">MySQL, MongoDB 및 JPA, querydsl 사용 경험.</span>
-- <span style="color:#6a737d;">Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.</span>
-- <span style="color:#6a737d;">GCP 환경에서 서비스 구축 및 배포 경험.</span>
-- <span style="color:#6a737d;">Jenkins를 이용한 CI/CD 경험.</span>
-- <span style="color:#6a737d;">Kafka를 통한 메시지 처리 및 서비스 간 데이터 정합성 유지 경험.</span>
-- <span style="color:#6a737d;">Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험.</span>
-
+  <div style="flex:1; min-width:260px;"><br>
+    - <span style="color:#6a737d;">Spring Framework<sub>(java)</sub> 기반 Monolithic, MSA 프로젝트 개발 경험.</span><br>
+    - <span style="color:#6a737d;">HTTP, WebSocket 통신 프로토콜 기반 개발 경험.</span><br>
+    - <span style="color:#6a737d;">MySQL, MongoDB 및 JPA, querydsl 사용 경험.</span><br>
+    - <span style="color:#6a737d;">Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.</span><br>
+    - <span style="color:#6a737d;">GCP 환경에서 서비스 구축 및 배포 경험.</span><br>
+    - <span style="color:#6a737d;">Jenkins를 이용한 CI/CD 경험.</span><br>
+    - <span style="color:#6a737d;">Kafka를 통한 메시지 처리 및 서비스 간 데이터 정합성 유지 경험.</span><br>
+    - <span style="color:#6a737d;">Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험.</span>
   </div>
-
 </div>
 
 <div style="clear: both;"></div>
@@ -32,9 +32,10 @@
 
 ## Project
 
-<!-- 인천대학교 지도앱 -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<!-- 인천대학교 교내 지도 앱 -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary style="font-size: 0.8em;"> 
@@ -53,8 +54,9 @@
 <br/>
 
 <!-- 다이어리 SNS 앱 카드 -->
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
 <div align="left" style="border:1px solid #e1e4e8; border-radius:12px; padding:14px; margin:8px 0;">
   <details open>
     <summary style="font-size: 0.8em;">
