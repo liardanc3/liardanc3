@@ -34,7 +34,7 @@
 
   <!-- 인천대학교 교내 지도 앱 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;/&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <details open>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">인천대학교 교내 지도 앱</summary>
@@ -53,7 +53,7 @@
   <!-- 다이어리 SNS 앱 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>&nbsp;&nbsp;/&nbsp;
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
     <details open>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">다이어리 SNS 앱(ios)</summary>
@@ -71,7 +71,8 @@
 
   <!-- 공공와이파이 관제시스템 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;/&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt&logoColor=white"/>
     <details>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">공공와이파이 관제시스템 구축</summary>
       <br>
