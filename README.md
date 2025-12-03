@@ -34,7 +34,7 @@
 
   <!-- 인천대학교 교내 지도 앱 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;/&nbsp;
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <details open>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">인천대학교 교내 지도 앱</summary>
@@ -53,7 +53,7 @@
   <!-- 다이어리 SNS 앱 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>&nbsp;&nbsp;/&nbsp;
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
     <details open>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">다이어리 SNS 앱(ios)</summary>
@@ -61,7 +61,7 @@
       <div style="font-size:0.75em; line-height:1.4;">
         - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> <br>
         - Backend 담당 | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
-        - Infra 담당 | GCP의 DNS 서비스, LB를 이용하여 배포, 머신 3개중 1개를 Master 2개를 Slave로 k8s 노드를 구성하여 컨테이너를 관리<br>
+        - Infra 담당 | GCP의 DNS 서비스 및 LB를 이용하여 배포, 머신 3개중 1개를 Master 2개를 Slave로 k8s 노드를 구성하여 컨테이너를 관리<br>
         - Container Orchestration, CI/CD, Monitoring이 포함된 Spring 기반 MSA 프로젝트<br>
         - 앱스토어에서 서비스 (2024.01 ~ 2024.04)
       </div>
@@ -71,13 +71,13 @@
 
   <!-- 공공와이파이 관제시스템 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;/&nbsp;
     <details>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">공공와이파이 관제시스템 구축</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - 회사 프로젝트 | <span style="font-style:italic;">Backend, Infra</span><br>
-        - Spring Boot 기반 CWMP 프로토콜 수집 서버 구축 참여<br>
+        - 회사 프로젝트<br>
+        - Backend 담당 | AP 장치로부터 데이터 수집 및 적재를 위한 xml 통신 ACS 서버 전체 구성<br>
         - 운영/외부 연계를 위한 API 서버 구축 참여<br>
         - 정기/대량 처리용 Batch 서버 구축 참여
       </div>
