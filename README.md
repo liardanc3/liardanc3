@@ -41,7 +41,7 @@
         <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - <a href="https://github.com/liardanc3/inunavi" target="_blank" style="text-decoration:none; color:#24292f;">졸업작품</a><br>
-        - <b>Backend 담당</b> | 어플 핵심로직인 길찾기, 강의조회, 강의추천, 장소 검색 등 API 전반을 구성<br>
+        - <b>Backend</b> | 어플 핵심로직인 길찾기, 강의조회, 강의추천, 장소 검색 등 API 전반을 구성<br>
         - 캠퍼스 지리에 익숙치 않은 신입생 및 복학생을 위한 안드로이드 교내 지도 어플<br>
         - 2022년 인천대학교 졸업작품 발표회에 출품된 작품<br>
         - 9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공
@@ -60,8 +60,8 @@
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a><br>
-        - <b>Backend 담당</b> | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
-        - <b>Infra 담당</b> | GCP DNS + LB 구성, k8s Master/Slave 노드 구성 및 컨테이너 운영<br>
+        - <b>Backend</b> | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
+        - <b>Infra</b> | GCP DNS + LB 구성, k8s Master/Slave 노드 구성 및 컨테이너 운영<br>
         - Container Orchestration, CI/CD, Monitoring이 포함된 Spring 기반 MSA 프로젝트<br>
         - 앱스토어에서 서비스 (2024.01 ~ 2024.04)
       </div>
@@ -78,7 +78,7 @@
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
-        - <b>Backend 담당</b> | AP 장치로부터 데이터 수집 및 적재를 위한 xml 통신 ACS 서버 전체 구성<br>
+        - <b>Backend</b> | AP 장치로부터 데이터 수집 및 적재를 위한 SOAP 통신 ACS 서버 전체 구성<br>
         - 운영/외부 연계를 위한 API 서버 구축 참여<br>
         - 정기/대량 처리용 Batch 서버 구축 참여
       </div>
@@ -95,7 +95,7 @@
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
-        - <b>Backend 담당</b> | 기존 자동화 업무 '준공' 고도화 및 수기 업무 '정산' 신규 구축<br>
+        - <b>Backend</b> | 기존 자동화 업무 '준공' 고도화 및 수기 업무 '정산' 신규 구축<br>
         - 퍼블리싱 완료된 HTML 위에서 Thymeleaf 화면단 구성
       </div>
     </details>
@@ -111,8 +111,8 @@
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
-        - <b>Backend 담당</b> | 신규상품 판매, 관리자페이지, 레거시 연동 API 구성<br>
-        - <b>Frontend 담당</b> | Angular 프로젝트 수정 및 신규 화면 구성
+        - <b>Backend</b> | 신규상품 판매, 관리자페이지, 레거시 연동 API 구성<br>
+        - <b>Frontend</b> | Angular 프로젝트 수정 및 신규 화면 구성
       </div>
     </details>
     <hr style="border:0.5px solid #e1e4e8; margin:12px 0;">
@@ -126,7 +126,7 @@
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
-        - <b>Backend 담당</b> | 윈도우즈 프로그램과의 데이터 통신 API, 영상 품질 개선·광망알림 등 연계 API 구성<br>
+        - <b>Backend</b> | 윈도우즈 프로그램과의 데이터 통신 API, 영상 품질 개선·광망알림 등 연계 API 구성<br>
         - 서비스 납품 이후 고객 요구사항 반영 및 디버깅
       </div>
     </details>
