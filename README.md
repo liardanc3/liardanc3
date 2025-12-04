@@ -79,7 +79,7 @@
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
         - <b>Backend</b> | AP 장치로부터 데이터 수집 및 적재를 위한 SOAP 통신 ACS 서버 전체 구성<br>
-        - <b>Infra</b> | 이중화된 Linux 환경에서 장애 대비 service 구성 및 인증서 관리
+        - <b>Infra</b> | 이중화된 Linux 환경에서 장애 대비 service 구성 및 인증서 관리<br>
         - 운영/외부 연계를 위한 API 서버 구축 참여<br>
         - 정기/대량 처리용 Batch 서버 구축 참여
       </div>
