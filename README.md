@@ -41,7 +41,7 @@
         <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - <a href="https://github.com/liardanc3/inunavi" target="_blank" style="text-decoration:none; color:#24292f;">졸업작품</a><br>
-        - <b>Backend</b> | 어플 핵심로직인 길찾기, 강의조회, 강의추천, 장소 검색 등 API 전반을 구성<br>
+        - <b>Backend</b> | 앱 핵심로직인 길찾기, 강의조회, 강의추천, 장소 검색 등 API 전반을 구성<br>
         - 캠퍼스 지리에 익숙치 않은 신입생 및 복학생을 위한 안드로이드 교내 지도 어플<br>
         - 2022년 인천대학교 졸업작품 발표회에 출품된 작품<br>
         - 9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공
@@ -61,7 +61,7 @@
       <div style="font-size:0.75em; line-height:1.4;">
         - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> <br>
         - <b>Backend 담당</b> | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
-        - <b>Infra 담당</b> | GCP의 DNS 서비스 및 LB를 이용하여 배포, 머신 3개중 1개를 Master 2개를 Slave로 k8s 노드를 구성하여 컨테이너를 관리<br>
+        - <b>Infra 담당</b> | GCP의 DNS 서비스 및 LB를 이용하여 라우팅 구성, 머신 3개중 1개를 Master 2개를 Slave로 k8s 노드를 구성하여 컨테이너를 관리<br>
         - Container Orchestration, CI/CD, Monitoring이 포함된 Spring 기반 MSA 프로젝트<br>
         - 앱스토어에서 서비스 (2024.01 ~ 2024.04)
       </div>
