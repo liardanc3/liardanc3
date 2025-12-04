@@ -59,9 +59,9 @@
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">다이어리 SNS 앱(ios)</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a><br>
-        - <b>Backend</b> | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
-        - <b>Infra</b> | GCP DNS + LB 구성, k8s Master/Slave 노드 구성 및 컨테이너 운영<br>
+        - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> <br>
+        - <b>Backend 담당</b> | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
+        - <b>Infra 담당</b> | GCP의 DNS 서비스 및 LB를 이용하여 배포, 머신 3개중 1개를 Master 2개를 Slave로 k8s 노드를 구성하여 컨테이너를 관리<br>
         - Container Orchestration, CI/CD, Monitoring이 포함된 Spring 기반 MSA 프로젝트<br>
         - 앱스토어에서 서비스 (2024.01 ~ 2024.04)
       </div>
