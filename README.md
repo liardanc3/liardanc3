@@ -79,6 +79,7 @@
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
         - <b>Backend</b> | AP 장치로부터 데이터 수집 및 적재를 위한 SOAP 통신 ACS 서버 전체 구성<br>
+        - <b>Infra</b> | 이중화된 Linux 환경에서 장애 대비 service 구성 및 인증서 관리
         - 운영/외부 연계를 위한 API 서버 구축 참여<br>
         - 정기/대량 처리용 Batch 서버 구축 참여
       </div>
@@ -112,7 +113,7 @@
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
         - <b>Backend</b> | 신규상품 판매, 관리자페이지, 레거시 연동 API 구성<br>
-        - <b>Frontend</b> | Angular 프로젝트 수정 및 신규 화면 구성
+        - <b>Frontend</b> | 기존 Angular 프로젝트 수정 및 신규 화면 구성
       </div>
     </details>
     <hr style="border:0.5px solid #e1e4e8; margin:12px 0;">
@@ -126,7 +127,8 @@
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
-        - <b>Backend</b> | 윈도우즈 프로그램과의 데이터 통신 API, 영상 품질 개선·광망알림 등 연계 API 구성<br>
+        - <b>Backend</b> | 윈도우즈 프로그램과의 데이터 통신 API, 영상 품질 개선서버· 광망알림서버 등 다른 시스템과의 연계 API 구성<br>
+        - <b>Infra</b> | 이중화된 Linux 환경에서 장애 대비 service 구성 및 crontab 등 을 이용한 통제시스템 Failover 구성<br>
         - 서비스 납품 이후 고객 요구사항 반영 및 디버깅
       </div>
     </details>
