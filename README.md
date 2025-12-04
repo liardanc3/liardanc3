@@ -34,14 +34,14 @@
 
   <!-- 인천대학교 교내 지도 앱 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <details open>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">인천대학교 교내 지도 앱</summary>
         <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - <a href="https://github.com/liardanc3/inunavi" target="_blank" style="text-decoration:none; color:#24292f;">졸업작품</a><br>
-        - Backend 담당 | 어플 핵심로직인 길찾기, 강의조회, 강의추천, 장소 검색 등 API 전반을 구성<br>
+        - <b>Backend 담당</b> | 어플 핵심로직인 길찾기, 강의조회, 강의추천, 장소 검색 등 API 전반을 구성<br>
         - 캠퍼스 지리에 익숙치 않은 신입생 및 복학생을 위한 안드로이드 교내 지도 어플<br>
         - 2022년 인천대학교 졸업작품 발표회에 출품된 작품<br>
         - 9개월 간 (2022.03~2022.12) 약 400명의 이용자에게 서비스를 제공
@@ -53,15 +53,15 @@
   <!-- 다이어리 SNS 앱 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
     <details open>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">다이어리 SNS 앱(ios)</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> <br>
-        - Backend 담당 | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
-        - Infra 담당 | GCP의 DNS 서비스 및 LB를 이용하여 배포, 머신 3개중 1개를 Master 2개를 Slave로 k8s 노드를 구성하여 컨테이너를 관리<br>
+        - <a href="https://github.com/liardanc3/SoSoHappy-BackEnd" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a><br>
+        - <b>Backend 담당</b> | 회원가입, 로그인, 게시글 CRUD, 푸시알림, 메시지 기능 등의 API 전체 구성<br>
+        - <b>Infra 담당</b> | GCP DNS + LB 구성, k8s Master/Slave 노드 구성 및 컨테이너 운영<br>
         - Container Orchestration, CI/CD, Monitoring이 포함된 Spring 기반 MSA 프로젝트<br>
         - 앱스토어에서 서비스 (2024.01 ~ 2024.04)
       </div>
@@ -71,14 +71,14 @@
 
   <!-- 공공와이파이 관제시스템 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt&logoColor=white"/>
     <details>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">공공와이파이 관제시스템 구축</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
         - 회사 프로젝트<br>
-        - Backend 담당 | AP 장치로부터 데이터 수집 및 적재를 위한 xml 통신 ACS 서버 전체 구성<br>
+        - <b>Backend 담당</b> | AP 장치로부터 데이터 수집 및 적재를 위한 xml 통신 ACS 서버 전체 구성<br>
         - 운영/외부 연계를 위한 API 서버 구축 참여<br>
         - 정기/대량 처리용 Batch 서버 구축 참여
       </div>
@@ -89,12 +89,14 @@
   <!-- 물리보안업체 사내프로그램 고도화 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Thymeleaf-6DBE3D?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf badge"/>
     <details>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">물리보안업체 사내프로그램 고도화</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - 회사 프로젝트 | <span style="font-style:italic;">Backend</span><br>
-        - Spring Boot로 기존 자동화 업무 '준공'의 고도화 및 수기 업무 '정산' 신규 구축에 참여
+        - 회사 프로젝트<br>
+        - <b>Backend 담당</b> | 기존 자동화 업무 '준공' 고도화 및 수기 업무 '정산' 신규 구축<br>
+        - 퍼블리싱 완료된 HTML 위에서 Thymeleaf 화면단 구성
       </div>
     </details>
     <hr style="border:0.5px solid #e1e4e8; margin:12px 0;">
@@ -103,13 +105,14 @@
   <!-- 온라인셀프가입센터 고도화 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular-B52E31?style=flat-square&logo=Angular&logoColor=white"/>
     <details>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">물리보안업체 온라인셀프가입센터 고도화</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - 회사 프로젝트 | <span style="font-style:italic;">Backend, Frontend(Angular)</span><br>
-        - Spring Boot로 신규상품 판매를 위한 API 구성, 관리자페이지 API 구성 및 레거시 서비스들과의 연동 API 구성<br>
-        - 퍼블리싱 완료된 HTML 위에서 Angular로 고객 노출 화면단 구성
+        - 회사 프로젝트<br>
+        - <b>Backend 담당</b> | 신규상품 판매, 관리자페이지, 레거시 연동 API 구성<br>
+        - <b>Frontend 담당</b> | Angular 프로젝트 수정 및 신규 화면 구성
       </div>
     </details>
     <hr style="border:0.5px solid #e1e4e8; margin:12px 0;">
@@ -122,10 +125,9 @@
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">GOP 과학화경계시스템 성능 개량 사업 통제시스템 개발</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - 회사 프로젝트 | <span style="font-style:italic;">Backend</span><br>
-        - 윈도우즈 프로그램과의 데이터 통신을 위한 API 구성<br>
-        - 카메라 화질 개선서버, 광망 알림서버, CCTV 분석서버 등 연계 시스템과의 연동 API 구성<br>
-        - 서비스 납품 이후 고객 요구사항에 따른 기능 수정 및 디버깅
+        - 회사 프로젝트<br>
+        - <b>Backend 담당</b> | 윈도우즈 프로그램과의 데이터 통신 API, 영상 품질 개선·광망알림 등 연계 API 구성<br>
+        - 서비스 납품 이후 고객 요구사항 반영 및 디버깅
       </div>
     </details>
   </div>
