@@ -12,17 +12,22 @@
 <br>
 
 <div style="display:flex; align-items:flex-start; gap:16px; width:100%;">
-  <div style="flex:1; min-width:260px;"><br>
-    - <span style="color:#6a737d;">Spring Framework<sub>(java)</sub> 기반 Monolithic, MSA 프로젝트 개발 경험.</span><br>
-    - <span style="color:#6a737d;">HTTP, WebSocket 통신 프로토콜 기반 개발 경험.</span><br>
-    - <span style="color:#6a737d;">MySQL, MongoDB 및 JPA, querydsl 사용 경험.</span><br>
-    - <span style="color:#6a737d;">Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험.</span><br>
-    - <span style="color:#6a737d;">GCP 환경에서 서비스 구축 및 배포 경험.</span><br>
-    - <span style="color:#6a737d;">Jenkins를 이용한 CI/CD 경험.</span><br>
-    - <span style="color:#6a737d;">Kafka를 통한 메시지 처리 및 서비스 간 데이터 정합성 유지 경험.</span><br>
-    - <span style="color:#6a737d;">Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험.</span>
+  <div style="flex:1; min-width:260px;">
+    - <span style="color:#6a737d;">Spring 환경에서 HTTP(JSON, XML), WebSocket, TCP 통신 기반 개발 경험 有.</span><br>
+    - <span style="color:#6a737d;">Spring 환경에서 Monolithic 및 여러 시스템이 존재하는 MSA 프로젝트 개발 경험 有.</span><br>
+    - <span style="color:#6a737d;">MyBatis, JPA 기반 DB(MySQL, PostgreSQL, Oracle) 접근 로직 구성 경험 有.</span><br>
+    - <span style="color:#6a737d;">테이블 특성에 맞춘 인덱스 설계 및 조인 순서 조정 등 기본 수준의 쿼리 튜닝 경험 有.</span><br>
+    - <span style="color:#6a737d;">kafka를 활용한 데이터 정합성 관리 및 Redis 활용을 통한 데이터 저장/처리 경험 有.</span><br>
+    - <span style="color:#6a737d;">JUnit5 기반으로 주요 서버 로직에 대한 테스트 코드 작성 경험 有.</span><br>
+    - <span style="color:#6a737d;">Nginx를 활용한 웹 서버 설정 및 서비스 연동 경험 有.</span><br>
+    - <span style="color:#6a737d;">Let's Encrypt 기반 SSL 인증서 적용 및 관리 경험.</span><br>
+    - <span style="color:#6a737d;">Jenkins를 이용한 CI/CD 경험 有.</span><br>
+    - <span style="color:#6a737d;">Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험 有.</span><br>
+    - <span style="color:#6a737d;">GCP 환경에서 서비스 구축 및 배포 경험 有.</span><br>
+    - <span style="color:#6a737d;">Kubernetes, docker를 이용한 컨테이너 기반 배포 및 오케스트레이션 경험 有.</span>
   </div>
 </div>
+
 
 <div style="clear: both;"></div>
 
