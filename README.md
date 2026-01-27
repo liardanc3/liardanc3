@@ -9,8 +9,7 @@
        src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,gcp,kubernetes,docker,jenkins,prometheus,grafana,kafka&perline=12" />
 </picture>
 
-
-<br>
+<br><br>
 
 <div style="display:flex; align-items:flex-start; gap:16px; width:100%;">
   <div style="flex:1; min-width:260px;">
