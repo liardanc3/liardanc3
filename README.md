@@ -19,8 +19,6 @@
     - <span style="color:#6a737d;">테이블 특성에 맞춘 인덱스 설계 및 조인 순서 조정 등 기본 수준의 쿼리 튜닝 경험 有.</span><br>
     - <span style="color:#6a737d;">kafka를 활용한 데이터 정합성 관리 및 Redis 활용을 통한 데이터 저장/처리 경험 有.</span><br>
     - <span style="color:#6a737d;">JUnit5 기반으로 주요 서버 로직에 대한 테스트 코드 작성 경험 有.</span><br>
-    - <span style="color:#6a737d;">Nginx를 활용한 웹 서버 설정 및 서비스 연동 경험 有.</span><br>
-    - <span style="color:#6a737d;">Let's Encrypt 기반 SSL 인증서 적용 및 관리 경험.</span><br>
     - <span style="color:#6a737d;">Jenkins를 이용한 CI/CD 경험 有.</span><br>
     - <span style="color:#6a737d;">Prometheus, Grafana를 이용한 매트릭 수집 및 모니터링 경험 有.</span><br>
     - <span style="color:#6a737d;">GCP 환경에서 서비스 구축 및 배포 경험 有.</span><br>
