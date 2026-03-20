@@ -1,4 +1,3 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliardanc3&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <div style="font-size: calc(1em - 2pt); line-height: 1.45;">
 
 ## Skills
