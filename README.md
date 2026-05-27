@@ -1,5 +1,39 @@
 <div style="font-size: calc(1em - 2pt); line-height: 1.45;">
   
+## Skills
+
+**Main**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+</p>
+
+**Experienced**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-B52E31?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+</p>
+
+<br>
+
 ## Project
 
 <div style="background:#f6f8fa; padding:20px; border-radius:12px;">
@@ -14,7 +48,7 @@
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">SQL 학습 서비스 - Quertimizer</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - <a href="https://github.com/liardanc3/quertimizer" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | 2026.03 ~ 운영 중<br>
+        - <a href="https://github.com/liardanc3/quertimizer" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | 2026.03 ~ <a href="https://quertimizer.com" target="_blank">운영 중</a><br>
         - <b>Frontend</b> | React 기반 클라이언트 화면 구성<br>
         - <b>Backend</b> | 문제 생성, SQL 실행/제출, 채점, 랭킹, 커뮤니티, 알림 등 API 구성<br>
         - <b>Infra</b> | GCP, Nginx, Docker, Let's Encrypt 기반 운영 환경 구성<br>
