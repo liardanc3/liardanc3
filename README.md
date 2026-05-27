@@ -111,7 +111,6 @@
   <!-- 공공와이파이 관제시스템 -->
   <div style="background:#ffffff; border:1px solid #e1e4e8; border-radius:10px; padding:14px; margin-bottom:18px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt&logoColor=white"/>
     <details>
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">공공와이파이 관제시스템 구축</summary>
       <br>
