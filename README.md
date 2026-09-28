@@ -47,7 +47,7 @@
       <summary style="font-size:1em; font-weight:bold; color:#24292f; cursor:pointer;">SQL 학습 서비스 - Quertimizer</summary>
       <br>
       <div style="font-size:0.75em; line-height:1.4;">
-        - <a href="https://github.com/liardanc3/quertimizer" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | 2026.03 ~ <a href="https://quertimizer.com" target="_blank">운영 중</a><br>
+        - <a href="https://github.com/liardanc3/quertimizer" target="_blank" style="text-decoration:none; color:#24292f;">사이드 프로젝트</a> | 2026.03 ~ <a href="https://quertimizer.com" target="_blank">2026.07</a><br>
         - <b>Frontend</b> | React 기반 클라이언트 화면 구성<br>
         - <b>Backend</b> | 문제 생성, SQL 실행/제출, 채점, 랭킹, 커뮤니티, 알림 등 API 구성<br>
         - <b>Infra</b> | GCP, Nginx, Docker, Let's Encrypt 기반 운영 환경 구성<br>
